@@ -19,7 +19,7 @@ author_profile: true
 
 # Sail racing
 
-<span id ="aida">
+<div id ="aida">
 
 # 2017 - Present
 
@@ -48,10 +48,10 @@ author_profile: true
 **2017 Stockholm**
 
 - Weekly Local sailing race - KSSS Saltsjöbaden
-  </span>
+  </div>
 
 <hr>
-<span id="2015">
+<div id="2015">
 
 # 2015
 
@@ -72,7 +72,7 @@ May/June: Palma de Mallorca Racing - [Sevens team 7777](https://www.facebook.com
 March - May: Sailing Instructor & skipper for weekly racing training, regattas and deliveries;
 April: HBYC Admiral Regatta: Skipper of Maca Tini (L26) ;
 
-</span>
+</div>
 
 <hr>
 
