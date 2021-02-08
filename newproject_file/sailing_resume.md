@@ -7,6 +7,8 @@ categories: [sailing]
 author_profile: true
 ---
 
+<link rel="stylesheet" href="/sailing_style.css">
+
 # My sailing journey from crewman to skipper
 
 ### by Ryno Lawson
