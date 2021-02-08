@@ -51,7 +51,7 @@ author_profile: true
   </span>
 
 <hr>
-<section id="2015">
+<span id="2015">
 
 # 2015
 
@@ -72,7 +72,7 @@ May/June: Palma de Mallorca Racing - [Sevens team 7777](https://www.facebook.com
 March - May: Sailing Instructor & skipper for weekly racing training, regattas and deliveries;
 April: HBYC Admiral Regatta: Skipper of Maca Tini (L26) ;
 
-</section>
+</span>
 
 <hr>
 
