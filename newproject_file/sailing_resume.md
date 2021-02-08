@@ -19,7 +19,7 @@ author_profile: true
 
 # Sail racing
 
-<section id ="aida">
+<span id ="aida">
 
 # 2017 - Present
 
@@ -48,7 +48,7 @@ author_profile: true
 **2017 Stockholm**
 
 - Weekly Local sailing race - KSSS Saltsjöbaden
-</section>
+  </span>
 
 <hr>
 <section id="2015">
