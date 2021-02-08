@@ -7,13 +7,15 @@ categories: [sailing]
 author_profile: true
 ---
 
-<link rel="stylesheet" href="/sailing_style.css">
+<link rel="stylesheet" href="/sailing_style.css"/>
 
 # My sailing journey from crewman to skipper
 
 ### by Ryno Lawson
 
-<img src="https://paper-attachments.dropbox.com/s_81611B95A352103574F861C2B1C58E571586BF4599B305F1BA99682F7E9FC4C3_1562932730489_Yachtmaster2014.jpg" alt= "Helmmans_pic"/>
+<hr>
+
+<img id= "sailing_profile" src="https://paper-attachments.dropbox.com/s_81611B95A352103574F861C2B1C58E571586BF4599B305F1BA99682F7E9FC4C3_1562932730489_Yachtmaster2014.jpg" alt= "Helmmans_pic"/>
 
 # Sail racing
 
