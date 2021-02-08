@@ -19,8 +19,6 @@ author_profile: true
 
 # Sail racing
 
-<div id ="aida">
-
 # 2017 - Present
 
 ## Stockholm, Sweden
@@ -48,10 +46,8 @@ author_profile: true
 **2017 Stockholm**
 
 - Weekly Local sailing race - KSSS Saltsjöbaden
-  </div>
 
 <hr>
-<div id="2015">
 
 # 2015
 
@@ -72,11 +68,8 @@ May/June: Palma de Mallorca Racing - [Sevens team 7777](https://www.facebook.com
 March - May: Sailing Instructor & skipper for weekly racing training, regattas and deliveries;
 April: HBYC Admiral Regatta: Skipper of Maca Tini (L26) ;
 
-</div>
-
 <hr>
 
-<section id="2014">
 # 2014
 
 ## Jot Sailing Team (Puma 42)
@@ -109,11 +102,9 @@ July - Nov: RCYC Sail Racing Academy weekly racing training, regattas and delive
 **Local regattas and club sailing series - Crew boss, Foredeck, Main trim, Jib trim, Halyards, Mast, Floater**
 
 - **Mykonos Offshore, Foredeck**
-</section>
 
 <hr>
 
-<section id="2012">
 # 2012
 
 ## Unleashed (Pacer42R): - new owner/skipper James Beaumont;
@@ -127,9 +118,8 @@ July - Nov: RCYC Sail Racing Academy weekly racing training, regattas and delive
 - Foredeck for local regattas and club sailing series
 - Mykonos Offshore 2012
 - Puma Twilight Series 2012
-</section>
+
 <hr>
-<section id=2014>
 
 # 2011
 
@@ -183,11 +173,8 @@ Irish Mist
 
 Position: Foredeck
 
-</section>
-
 <hr>
 
-<section>
 **2003**
 
 ## Bandito, L26 - skipper Rian Turner
@@ -201,8 +188,6 @@ The Skipper/owner of Bandito Rian Turner was very influencial in the first tens 
 unfortunately I was not of the boat that day but I share it to demonstrate the kind of sailing that Hout Bay can offer and the standard of sailing my mentor strived for when racing
 
 Here is a video of the type of sailing Rian Turner does
-
-</section>
 
 <hr>
 
