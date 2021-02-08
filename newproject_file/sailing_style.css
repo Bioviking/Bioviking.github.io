@@ -2,7 +2,11 @@ h1 {
   text-align: center;
 }
 
-#sailing_profile {
+h2 {
+  text-align: center;
+}
+
+img#sailing_profile {
   height: 100px;
   width: 100px;
 }
