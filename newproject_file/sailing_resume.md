@@ -19,7 +19,11 @@ author_profile: true
 
 # Sail racing
 
-# Stockholm, Sweden, 2017 - Present
+<section id ="aida">
+
+# 2017 - Present
+
+## Stockholm, Sweden
 
 ## Aida Racing Xp44
 
@@ -44,10 +48,14 @@ author_profile: true
 **2017 Stockholm**
 
 - Weekly Local sailing race - KSSS Saltsjöbaden
+</section>
 
-# Palma de Mallorca, 2014 - 2015
+<hr>
+<section id="2015">
 
-## 2015
+# 2015
+
+## Palma de Mallorca, 2014 - 2015
 
 ## Sevens team 7777 with Jose Luis Cernuda Cladera(Pepe) in Palma de Mallocra
 
@@ -57,11 +65,18 @@ May/June: Palma de Mallorca Racing - [Sevens team 7777](https://www.facebook.com
 - Reggata Fuerzas Armadas
 - Regatta Trofeo Hilton SA TORRE
 
+<hr>
+
 ## RCYC Sail Racing Academy
 
 March - May: Sailing Instructor & skipper for weekly racing training, regattas and deliveries;
 April: HBYC Admiral Regatta: Skipper of Maca Tini (L26) ;
 
+</section>
+
+<hr>
+
+<section id="2014">
 # 2014
 
 ## Jot Sailing Team (Puma 42)
@@ -71,9 +86,9 @@ April: HBYC Admiral Regatta: Skipper of Maca Tini (L26) ;
 
 [Dec: Jot Sailing Team (Puma 42) - Regatta Trofeo Navidad 2014 (Palma); See link for boat info](https://www.racing-yachts.com/puma-42-vision-yachts-288.html)
 
-# Cape Town, South Africa
+## Cape Town, South Africa
 
-# Royal Cape Yacht Club, 2011 - 2016
+## Royal Cape Yacht Club, 2011 - 2016
 
 ## RCYC Sail Racing Academy
 
@@ -94,7 +109,11 @@ July - Nov: RCYC Sail Racing Academy weekly racing training, regattas and delive
 **Local regattas and club sailing series - Crew boss, Foredeck, Main trim, Jib trim, Halyards, Mast, Floater**
 
 - **Mykonos Offshore, Foredeck**
+</section>
 
+<hr>
+
+<section id="2012">
 # 2012
 
 ## Unleashed (Pacer42R): - new owner/skipper James Beaumont;
@@ -108,6 +127,9 @@ July - Nov: RCYC Sail Racing Academy weekly racing training, regattas and delive
 - Foredeck for local regattas and club sailing series
 - Mykonos Offshore 2012
 - Puma Twilight Series 2012
+</section>
+<hr>
+<section id=2014>
 
 # 2011
 
@@ -161,6 +183,11 @@ Irish Mist
 
 Position: Foredeck
 
+</section>
+
+<hr>
+
+<section>
 **2003**
 
 ## Bandito, L26 - skipper Rian Turner
@@ -175,6 +202,12 @@ unfortunately I was not of the boat that day but I share it to demonstrate the k
 
 Here is a video of the type of sailing Rian Turner does
 
+</section>
+
+<hr>
+
+<!--
+<section>
 **Old**
 
 # Superyacht industry and Marine work
@@ -254,7 +287,10 @@ July:
 - RYA Competent Crew and Day Skipper Theory
 
 ## 2002
+</section>
+-->
 
+<!--
 <ul>
   {% for sailing in site.sailing %}
     <li>
@@ -262,3 +298,4 @@ July:
       <p>{{ sailing.excerpt }}</p>
     </li>
   {% endfor %}
+-->
